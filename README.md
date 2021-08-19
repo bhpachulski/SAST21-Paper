@@ -1,7 +1,5 @@
 # [On the use of test smells for prediction of flaky tests](https://localhost)
 
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4641559.svg)](https://doi.org/) [![arXiv](https://img.shields.io/badge/arXiv-2103.12670-%3CCOLOR%3E.svg)](https://arxiv.org/)
-
 Bruno Henrique Pachulski Camara <sup>1</sup>, <sup>2</sup>, <br />
 Marco Aure ́lio Graciotto Silva <sup>3</sup>, <br />
 Andre T. Endo <sup>4</sup>, <br />
@@ -17,7 +15,7 @@ Silvia Regina Vergilio <sup>2</sup>. <br />
 
 This paper has been submitted for publication in *SAST 2021 - VI Simpósio Brasileiro de Teste de Software Sistemático e Automatizado*.
 
-This experimental package is organized by research questions. For each of the questions, some files can be executed to obtain the data that are presented in the paper.
+This experimental package is organized by aproaches, semlls and vocabulary-based. For each of the questions, some files can be executed to obtain the data that are presented in the paper.
 
 ## Abstract
 
