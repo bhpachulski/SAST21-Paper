@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite it as below."
+authors:
+  - family-names: Pachulski Camara
+    given-names: Bruno Henrique
+    orcid: https://orcid.org/0000-0003-4862-5010
+  - family-names: Graciotto Silva
+    given-names: Marco Aurélio
+    orcid: https://orcid.org/0000-0002-1737-8240
+  - family-names: Endo
+    given-names: André T.
+    orcid: https://orcid.org/0000-0002-8737-1749
+  - family-names: Vergilio
+    given-names: Silvia Regina
+    orcid: https://orcid.org/0000-0003-3139-6266
+title: "On the use of test smells for prediction of flaky tests - Replication Package"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2021-08-19
