@@ -1,5 +1,7 @@
 # [On the use of test smells for prediction of flaky tests](https://localhost)
 
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] [![DOI](https://zenodo.org/badge/397793628.svg)](https://zenodo.org/badge/latestdoi/397793628)
+
 Bruno Henrique Pachulski Camara <sup>1</sup>, <sup>2</sup>, <br />
 Marco Aure ́lio Graciotto Silva <sup>3</sup>, <br />
 Andre T. Endo <sup>4</sup>, <br />
