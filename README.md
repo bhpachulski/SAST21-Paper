@@ -1,6 +1,6 @@
 # [On the use of test smells for prediction of flaky tests](https://localhost)
 
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] [![DOI](https://zenodo.org/badge/397793628.svg)](https://zenodo.org/badge/latestdoi/397793628) [![arXiv](https://img.shields.io/badge/arXiv-2108.11781-%3CCOLOR%3E.svg)](https://arxiv.org/)
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] [![DOI](https://zenodo.org/badge/397793628.svg)](https://zenodo.org/badge/latestdoi/397793628) [![arXiv](https://img.shields.io/badge/arXiv-2108.11781-%3CCOLOR%3E.svg)](https://arxiv.org/abs/2108.11781)
 
 Bruno Henrique Pachulski Camara <sup>1</sup>, <sup>2</sup>, <br />
 Marco Aure ́lio Graciotto Silva <sup>3</sup>, <br />
